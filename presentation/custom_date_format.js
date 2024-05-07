@@ -20,5 +20,3 @@ let day = weekday[currentTime.getDay()];
 console.log(`${date}-${monthName}-${year}(${day})`)
 
 
-
-

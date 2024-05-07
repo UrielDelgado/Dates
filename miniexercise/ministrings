@@ -1,0 +1,10 @@
+"use strict"
+
+let hi = ("hi year up")
+let wd = ("learning web development is awesome")
+
+
+console.log(`${hi.toUpperCase()} , ${wd.toUpperCase()}`);
+
+
+
